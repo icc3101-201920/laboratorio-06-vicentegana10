@@ -32,6 +32,8 @@ namespace Laboratorio_5_OOP_201902
                 Console.WriteLine($"{counter++}: {card.Name}");
             }
             
+            
+
             //Test Change Card
             
             //player.ChangeCard(3);
